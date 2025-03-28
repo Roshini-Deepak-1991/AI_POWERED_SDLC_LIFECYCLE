@@ -1,0 +1,8 @@
+streamlit 
+langgraph 
+langchain-core
+streamlit
+requests
+# json2json
+datetime
+typing
